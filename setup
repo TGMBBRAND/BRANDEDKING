@@ -94,7 +94,7 @@ update
 packages
 node
 installation
-pprint "\n\n\n\n\nBRANDED X KING Installation Completed !" "cgreen"
+pprint "\n\n\n\n\nERROR X KING Installation Completed !" "cgreen"
 sleep 1
 clear
 
